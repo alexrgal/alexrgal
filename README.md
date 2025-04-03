@@ -1,10 +1,3 @@
-**Alejandro Rodríguez Gallego, PhD** is an Assistant Professor at [ICADE](https://comillas.edu) specializing in **Data Science** and **Finance**, both as research and teaching lines.
+**Alejandro Rodríguez Gallego, PhD, PMP** is an Assistant Professor at [ICADE](https://comillas.edu) specializing in **Data Science** and **Finance**, both as research and teaching lines.
 
-
-After a decade as consultant in the **Telecom & High Tech sector**, he transitioned from practitioner to academic to **connect theory with real-world applications**. His work bridges **industry insights with cutting-edge research** to deliver impactful learning experiences.
-
-
-📌 Sharing insights on **#DataScience** and **#Finance**.
-
-
-[LinkedIn](https://www.linkedin.com/in/arodriguez/) ▫️ [GitHub](https://github.com/alexrgal) ▫️ [Mastodon](https://me.dm/@alrog)
+[alexrg.eu](https://alexrg.eu) ▫️ [LinkedIn](https://www.linkedin.com/in/arodriguez/) ▫️ [Medium](https://alrog.medium.com) ▫️ [ORCID](https://orcid.org/0000-0003-0700-1308) ▫️ [Mastodon](https://me.dm/@alrog)
